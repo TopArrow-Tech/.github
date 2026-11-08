@@ -2,39 +2,53 @@
 
 **The Age of AI Coding — Change Your Own Software Yourself.**
 
-TopArrow makes software your own. Install apps that fit you, keep your data on your own device, and change whatever doesn't fit with an AI coding tool. A version you changed can be published on the TopArrow market for others to use.
+Software should adapt to you, not the other way around.
+
+With AI coding tools, you no longer need programming experience to change software. TopArrow gives you apps that already work. Use them as they are, and when something doesn't fit, tell an AI coding tool what you want and it changes the app for you. The apps and your data stay on your own device.
+
+What you change is yours. Keep it for yourself, send it to a friend, or publish it on the TopArrow market, free or paid.
 
 [Website](https://www.toparrow.top/) · [Download](https://www.toparrow.top/web/download.php) · [Browse apps](https://www.toparrow.top/web/apps.php) · [中文](https://www.toparrow.top/cn/)
 
-## Why TopArrow
+## How TopArrow is different
 
-- **Your data stays with you.** Apps run on your own device and keep their data there. They don't depend on a cloud service that could shut down, an account is optional, and they still work offline.
-- **If it doesn't fit, change it.** Tell an AI coding tool what you want, such as a new field, a different page, or a chart, and it edits the app for you. You don't need to learn programming first or rebuild anything.
-- **Working software to start from.** Asking AI to write a whole app from zero often goes wrong. TopArrow apps already run and keep a simple structure with readable code, so the AI only changes the parts you care about.
-- **Your version can become your work.** Publish what you changed on the TopArrow market. When someone buys your version, you earn from it, and the versions yours was built on get a share too.
+- **From app stores.** App stores are the easiest place to find finished apps, but only the developer can change them. If something doesn't fit, you wait for an update. Every TopArrow app can be changed by the people who use it, and a changed version can be published as a new version of its own.
+- **From GitHub.** GitHub is built around code, and it's where developers share it and build it together. TopArrow is built around software people can use, change, and share: install an app, use it, and let AI make the changes. A changed version can be sold, and the original author shares in each sale.
+- **From subscription software.** There is nothing to subscribe to and no service that can shut down under you. The software and your data stay on your own device, and they still work offline.
+- **From building with AI from zero.** An app that AI writes from nothing tends to break as features pile up. TopArrow starts you with software that already runs, so AI only changes the parts you care about.
 
-## Get started
+More in the [full comparison](https://www.toparrow.top/web/compare.php).
 
-TopArrow runs on Windows 10 (x64) or later, and on Macs with Apple silicon running macOS 11 or later. Mobile is in progress.
+## Start with an app. Make it yours.
 
-1. [Download TopArrow](https://www.toparrow.top/web/download.php). On Windows, run the installer. On a Mac, open the disk image and drag TopArrow into Applications. There is no runtime to set up and no server to connect to.
-2. Open TopArrow and install an app from the market. Search by name, or by the version code shown on the website.
-3. Use it for a while and build up your own data.
+You don't have to build anything or publish anything. Go as far as you like, and stop at any step.
 
-## Change an app
+### 1. Install TopArrow
+
+[Download TopArrow](https://www.toparrow.top/web/download.php) for Windows 10 (x64) or later, or for Macs with Apple silicon running macOS 11 or later. On Windows, run the installer. On a Mac, open the disk image and drag TopArrow into Applications. There is no runtime to set up and no server to connect to, and you don't need an account. Mobile is in progress.
+
+### 2. Try a few apps
+
+Open the **App Market** in TopArrow, install a few free apps, and use them for a while. You can search by name, or by the version code shown on the [website](https://www.toparrow.top/web/apps.php).
+
+### 3. Change what doesn't fit
 
 1. Get an AI coding tool. Any tool that can work on a folder of code will do, such as Claude Code, Codex, Cursor, or GitHub Copilot. See the [list of AI coding tools](https://www.toparrow.top/web/aitools.php).
-2. In TopArrow, open the app and click **Change it**. Open the app's code folder, or copy its path.
+2. In **My Apps**, click **Change it** on the app. Open its code folder, or copy the path.
 3. Open that folder in your AI coding tool and say what you want in one sentence, for example "add a date to each note" or "make this button larger".
 4. Go back to TopArrow and reopen the app to see the change. If something breaks, click **Restore** to go back.
 
-Full walkthrough: [How to modify an app with AI](https://www.toparrow.top/web/howto.php).
+Watch one real change from start to finish: [How to modify an app with AI](https://www.toparrow.top/web/howto.php).
 
-## Build and publish
+### 4. Make your own
 
-To build an app of your own, click **Create app** in TopArrow and pick a starter. [TopBase](https://github.com/TopArrow-Tech/TopBase) works for games, tools, web apps, and desktop apps. It gives your AI coding tool the platform rules and a documentation layout, so what it builds runs on TopArrow and stays easy to change.
+Have an idea of your own? In **My Releases**, click **Create app** and pick a starter. [TopBase](https://github.com/TopArrow-Tech/TopBase) works for games, tools, web apps, and desktop apps. It gives your AI coding tool the platform rules and a documentation layout, so what it builds runs on TopArrow and stays easy to change.
 
-To publish an app, or a version you changed, sign up in TopArrow and publish it from there. See [For creators](https://www.toparrow.top/web/creators.php), [how earnings work](https://www.toparrow.top/web/earnings.php), and the [publishing guidelines](https://www.toparrow.top/web/guidelines.php).
+### Share it, or sell it
+
+An app you changed or made can simply stay on your computer. To give it to a friend, click **Export app** and send them the file. They add it with **Install from file**.
+
+To reach more people, sign up and publish it on the TopArrow market, free or paid. When someone buys your version, you earn from it, and the versions yours was built on get a share too. See [For creators](https://www.toparrow.top/web/creators.php), [how earnings work](https://www.toparrow.top/web/earnings.php), and the [publishing guidelines](https://www.toparrow.top/web/guidelines.php).
 
 ## Repositories
 
